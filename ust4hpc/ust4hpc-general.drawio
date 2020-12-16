@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T13:42:27.187Z" agent="5.0 (X11)" etag="_nK16sy7YtUQ5b7yjjj4" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T13:43:24.269Z" agent="5.0 (X11)" etag="j3FdZQXafWei5hr_K90b" version="14.0.3" type="github">
   <diagram id="bwOwMX_GridOYLWOGl-J" name="Page-1">
     <mxGraphModel dx="1391" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,12 +205,6 @@
         <mxCell id="u7qDczPIwM78_GvpAT4f-69" value="&lt;font data-font-src=&quot;https://raw.githubusercontent.com/ipython/xkcd-font/master/xkcd-script/font/xkcd-script.ttf&quot; style=&quot;font-size: 15px&quot; face=&quot;xkcd&quot;&gt;Hub&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="444" y="200" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="u7qDczPIwM78_GvpAT4f-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-128.png;align=right;" vertex="1" parent="1">
-          <mxGeometry x="690" y="17" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="u7qDczPIwM78_GvpAT4f-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png;align=right;" vertex="1" parent="1">
-          <mxGeometry x="742" y="70" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="u7qDczPIwM78_GvpAT4f-71" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="u7qDczPIwM78_GvpAT4f-70" target="u7qDczPIwM78_GvpAT4f-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="120" as="sourcePoint" />
@@ -234,6 +228,15 @@
         </mxCell>
         <mxCell id="u7qDczPIwM78_GvpAT4f-29" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r740xd;flipV=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;" vertex="1" parent="u7qDczPIwM78_GvpAT4f-73">
           <mxGeometry x="40" y="48" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-74" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="697" y="17" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-128.png;align=right;" vertex="1" parent="u7qDczPIwM78_GvpAT4f-74">
+          <mxGeometry width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png;align=right;" vertex="1" parent="u7qDczPIwM78_GvpAT4f-74">
+          <mxGeometry x="52" y="53" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
