@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T11:01:03.955Z" agent="5.0 (X11)" etag="fkRyFHwq6pe5GtxlsTft" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T11:04:32.175Z" agent="5.0 (X11)" etag="aYdjcXNwUS2x8oJ9YPAC" version="14.0.3" type="github">
   <diagram id="bwOwMX_GridOYLWOGl-J" name="Page-1">
     <mxGraphModel dx="1391" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="906" y="466" width="39.5" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="u7qDczPIwM78_GvpAT4f-1" value="&lt;h1&gt;&lt;font data-font-src=&quot;https://raw.githubusercontent.com/ipython/xkcd-font/master/xkcd-script/font/xkcd-script.ttf&quot; face=&quot;xkcd&quot;&gt;Kubernetes&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;align=left;strokeColor=#6c8ebf;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="80" y="259" width="900" height="161" as="geometry" />
+          <mxGeometry x="80" y="259" width="1200" height="161" as="geometry" />
         </mxCell>
         <mxCell id="u7qDczPIwM78_GvpAT4f-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="220" y="359" width="50" height="48" as="geometry" />
@@ -114,6 +114,24 @@
         </mxCell>
         <mxCell id="u7qDczPIwM78_GvpAT4f-18" value="&lt;font data-font-src=&quot;https://raw.githubusercontent.com/ipython/xkcd-font/master/xkcd-script/font/xkcd-script.ttf&quot; style=&quot;font-size: 15px&quot; face=&quot;xkcd&quot;&gt;Workers&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="833" y="390" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1074" y="287" width="154" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-19" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pv;align=left;" vertex="1" parent="u7qDczPIwM78_GvpAT4f-23">
+          <mxGeometry width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-20" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pvc;align=left;" vertex="1" parent="u7qDczPIwM78_GvpAT4f-23">
+          <mxGeometry x="34" y="19" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-22" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pvc;align=left;" vertex="1" parent="u7qDczPIwM78_GvpAT4f-23">
+          <mxGeometry x="69" y="38" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-21" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=vol;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=left;" vertex="1" parent="u7qDczPIwM78_GvpAT4f-23">
+          <mxGeometry x="104" y="57" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="u7qDczPIwM78_GvpAT4f-24" value="&lt;font data-font-src=&quot;https://raw.githubusercontent.com/ipython/xkcd-font/master/xkcd-script/font/xkcd-script.ttf&quot; style=&quot;font-size: 15px&quot; face=&quot;xkcd&quot;&gt;Volumes&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="390" width="40" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
