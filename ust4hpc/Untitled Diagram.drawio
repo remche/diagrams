@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T10:05:45.804Z" agent="5.0 (X11)" version="14.0.3" etag="papaCijaEJb5dByxag5L" type="github"><diagram id="bwOwMX_GridOYLWOGl-J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-16T10:17:35.782Z" agent="5.0 (X11)" etag="P149flj2gsdPczQGfh8w" version="14.0.3" type="github">
+  <diagram id="bwOwMX_GridOYLWOGl-J" name="Page-1">
+    <mxGraphModel dx="1391" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="398" width="900" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-3" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="553" y="460.5" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-4" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="770" y="460" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-5" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-6" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-8" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r740xd;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="460.5" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-9" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r740xd;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="578" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-10" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r740xd;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="519" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-11" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="337" y="460.5" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="0PB2hhGepQQwiqN1bmTB-12" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="162" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
