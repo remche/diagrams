@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T12:53:43.493Z" agent="5.0 (X11)" etag="c5629T7fEMoSOthoyIm4" version="14.4.2" type="device"><diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">7Vnbcps6FP0aHsNwMTZ5NE7a02nayZk8tG8eWWxAJzJihHxJvv5IQmBujt3GnWlmTDy2tCRtib33WiDF8hfr/WeOiuwbi4FanhPvLf/O8rzZzJHfCngxQBhWQMpJXEHuAXgir2BAMy7dkBjKTkfBGBWk6IKY5Tlg0cEQ52zX7ZYw2p21QCkMgCeM6BD9QWKRGdR1nEPDP0DSzEwdBqZhhfBzytkmN/NZnp/oq2peo9qW6V9mKGa7FuTfW/6CMyaq0nq/AKpcW7utGvfpSGuzbg65OGfAw3/w/Prz6yNxPi2//Uu/fy2i4sarrGwR3UB9G3qx4qV20Ba4INJfD2gF9JGVRBCWy6YVE4KtLT/KxJrKuiuLCaF0wSjjeqg/nUd3k6nES8HZM7RajKf8qLY+pyRVVgUrJIpMDct7AzkkKhjJhY50EMmPYzthYHmL5tcKpNWFbrl1T7WY31ZLbW3Y4lVAFxzDZkPQ1Ta9YAQcw2b9uTXgjszdx7wRcNTkyNxOb5HyY9wN/H4LlddVbGX+Fiol1vtUCYGNSYnZskQJ2JitC5UY8AWr1IhWaVUY64s4zmRPLDYc7BRy4AQvUVFQgnIs7UccyjNHI0yWsqfMLUp1lphklikF+6MscRvuSUkDtgbBX2QXM8Cv6WrkzJ2a+u4gDrUCZC1ZqDFk5ChtLB8oKQuGlb/AUP/K0CtDPzJDKaBkWe6IwNllKBpM/zKKTq4UvVL0I1O0LEgOl+Wo+5dxNBhwdK7chZEmYp+uA6rF+qoCWL3Fuw0j622DQvR+AGJTQ6uS0Y2AOcdm46PRpiYdGNGeIjRsPSYZaxLHap1DfvdloBGXspBRztMHSJSbHaUx8rWpdXu3+jJ4vVS1up1KlCc5XCE7mUgHa5Gxru/iAinj9lNm4tnBIGlmI0kTBn8oaaanhT1GZabjrbxq9qhopVudN2V9Fqi/gaznLIcRnUhx4dmolbFSXhAXxvRZ3j9Oi6MhcUYCMMbaicE4ULm6bXdnPRYVM+OjUsjDdDde0M2AXlxZkpQgBlFt1v37gQ5PB7qOSEJhP1fnDtLvkMemeIcpKkuCdTxlYIZwKxMq2xAPDiZOUuVM9XxnHNywx8RwYvdCUbINx2DGtQ8deqYG26mhKemuFMTA1KVC67ojsZ1S6bEoJltZTFXxO+MiW+nDHM+ZP36pu8gpW70GSaFiqPW5G+CTyly9oMmHNHltiUX3/ezuLWJ3lcZqDplOEj58k/A3ju0Gk7ATMv8yOeXYod+120+EP0fv2yu925ycXYzeg9e8s+ktPYheWt1M7h9d9GTSnynoZUpl8bLaMTwefWKbnlB8eEm4PSUJ3tSddZxfHxu/+zlj+90n/o1rh7P3q4KsHs7Vq+6H/1349/8D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-22T12:58:10.297Z" agent="5.0 (X11)" etag="UM8uUJG5rb5CULIo780K" version="14.4.2" type="github">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="924" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-2" value="Contrôleur" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.aci_controller;" parent="1" vertex="1">
+          <mxGeometry x="320" y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-3" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.aci_leaf_switch;" parent="1" vertex="1">
+          <mxGeometry x="560" y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-4" value="&lt;div&gt;Infrastructure&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.aci_spine_switch;" parent="1" vertex="1">
+          <mxGeometry x="510" y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-5" value="Application" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;" parent="1" vertex="1">
+          <mxGeometry x="110" y="142.5" width="70" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-6" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.application;part=1;" parent="LjekzXKPi0F_MQlNKpBp-5" vertex="1">
+          <mxGeometry x="0.5" width="50" height="40" relative="1" as="geometry">
+            <mxPoint x="-25" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="184.5" as="sourcePoint" />
+            <mxPoint x="320" y="184.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-11" value="&lt;div&gt;Northbound API&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];" parent="LjekzXKPi0F_MQlNKpBp-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.1548" y="3" relative="1" as="geometry">
+            <mxPoint x="10.83" y="3.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="184.5" as="sourcePoint" />
+            <mxPoint x="510" y="184.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LjekzXKPi0F_MQlNKpBp-12" value="Southbound API" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];" parent="LjekzXKPi0F_MQlNKpBp-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.2617" y="-2" relative="1" as="geometry">
+            <mxPoint x="18.35" y="-1.87" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
