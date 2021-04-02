@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T07:34:33.527Z" agent="5.0 (X11)" version="14.5.4" etag="hj4-llcZR9jTPsCuvGK6" type="github"><diagram id="HhhJA0jkjIQcnTKa6Uss">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-02T07:42:54.376Z" agent="5.0 (X11)" etag="WH6PD_YDPxLZhuoFvG6H" version="14.5.4" type="github">
+  <diagram id="HhhJA0jkjIQcnTKa6Uss" name="Page-1">
+    <mxGraphModel dx="1843" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6UK3dRl_GSbIqII08d5U-1" value="&lt;div&gt;snow&lt;/div&gt;&lt;div&gt;vmk0 (mgmt) 10.0.9.21 →&amp;nbsp; AP-INFRA | EPG-ESX (BD-OSU-PRIV)&lt;br&gt;&lt;/div&gt;&lt;div&gt;vmk1 (vmotion) 10.0.9.195 → AP-INFRA | EPG-ESX-VMOTION (BD-OSU-INFRA-VMOTION)&lt;/div&gt;&lt;div&gt;vmk2 (vsan) 10.0.9.211 → AP-INFRA | EPG-ESX-VSAN (BD-OSU-INFRA-VSAN)&lt;/div&gt;" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+          <mxGeometry x="160" y="452" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-2" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+          <mxGeometry x="474" y="410" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-3" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+          <mxGeometry x="494" y="435" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-4" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+          <mxGeometry x="512" y="462" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-5" value="2C51" style="verticalLabelPosition=top;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=bottom;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.aci_leaf_switch;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-6" value="2C51" style="verticalLabelPosition=top;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=bottom;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.aci_leaf_switch;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="208" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-7" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.aci_spine_switch;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-8" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.aci_spine_switch;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-9" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6UK3dRl_GSbIqII08d5U-1" target="6UK3dRl_GSbIqII08d5U-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="510" as="sourcePoint" />
+            <mxPoint x="510" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UK3dRl_GSbIqII08d5U-10" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6UK3dRl_GSbIqII08d5U-1" target="6UK3dRl_GSbIqII08d5U-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="440" as="sourcePoint" />
+            <mxPoint x="510" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
