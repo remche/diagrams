@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T07:59:10.874Z" agent="5.0 (X11)" etag="S5ro2S9kpHO_lF8U73iy" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T08:02:02.072Z" agent="5.0 (X11)" etag="Xp5WUvbP5MXKKE3QW9ra" version="14.5.4" type="github">
   <diagram id="HhhJA0jkjIQcnTKa6Uss" name="Page-1">
     <mxGraphModel dx="2032" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6UK3dRl_GSbIqII08d5U-1" value="&lt;div&gt;snow&lt;/div&gt;&lt;div&gt;vmk0 (mgmt) 10.0.9.21/25 →&amp;nbsp; AP-INFRA | EPG-ESX (BD-OSU-PRIV)&lt;br&gt;&lt;/div&gt;&lt;div&gt;vmk1 (vmotion) 10.0.9.195/28 → AP-INFRA | EPG-ESX-VMOTION (BD-OSU-INFRA-VMOTION)&lt;/div&gt;&lt;div&gt;vmk2 (vsan) 10.0.9.211/28 → AP-INFRA | EPG-ESX-VSAN (BD-OSU-INFRA-VSAN)&lt;/div&gt;" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+        <mxCell id="6UK3dRl_GSbIqII08d5U-1" value="&lt;div&gt;snow&lt;/div&gt;&lt;div&gt;vmk0 (mgmt) 10.0.9.21/25 →&amp;nbsp; AP-INFRA | EPG-ESX (BD-OSU-PRIV)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;vmk1 (vmotion) 10.0.9.195/28 → AP-INFRA | EPG-ESX-VMOTION (BD-OSU-INFRA-VMOTION)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;vmk2 (vsan) 10.0.9.211/28 → AP-INFRA | EPG-ESX-VSAN (BD-OSU-INFRA-VSAN)&lt;/font&gt;&lt;/div&gt;" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
           <mxGeometry x="160" y="452" width="38" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6UK3dRl_GSbIqII08d5U-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6UK3dRl_GSbIqII08d5U-2" target="6UK3dRl_GSbIqII08d5U-45">
@@ -94,7 +94,7 @@
         <mxCell id="6UK3dRl_GSbIqII08d5U-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6UK3dRl_GSbIqII08d5U-37" target="6UK3dRl_GSbIqII08d5U-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6UK3dRl_GSbIqII08d5U-37" value="&lt;div&gt;starkr&lt;/div&gt;&lt;div&gt;vmk7 &lt;/div&gt;" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+        <mxCell id="6UK3dRl_GSbIqII08d5U-37" value="&lt;div&gt;starkr&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;vmk2 (vmotion) 192.168.58.132/27&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;vmk7(vsan) 192.168.58.53/27&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
           <mxGeometry x="-274" y="610" width="38" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6UK3dRl_GSbIqII08d5U-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.795;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6UK3dRl_GSbIqII08d5U-38" target="6UK3dRl_GSbIqII08d5U-35">
