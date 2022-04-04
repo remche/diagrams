@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T12:59:02.156Z" agent="5.0 (X11)" etag="0gWFsbMOeW5R90wmTzTv" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T13:01:00.164Z" agent="5.0 (X11)" etag="GeZ40fiOXTvfU7Z7utJD" version="17.4.0" type="github">
   <diagram id="Mtu2LjgbH1QKWpd-V6R2" name="Page-1">
     <mxGraphModel dx="983" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,6 +88,33 @@
         </mxCell>
         <mxCell id="mQaUnpxEx9PQrwTs-Cjj-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.vmware_vsan;" vertex="1" parent="1">
           <mxGeometry x="109.8" y="430.8" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-21" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=etcd;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-22" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=master;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-23" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="296" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-24" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="346" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-25" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="396" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-26" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="446" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-27" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="496" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-28" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="546" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-29" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="596" y="290" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
