@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T13:01:00.164Z" agent="5.0 (X11)" etag="GeZ40fiOXTvfU7Z7utJD" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T13:18:14.741Z" agent="5.0 (X11)" etag="Y1xGwC5NeQknPeOazknG" version="17.4.0" type="github">
   <diagram id="Mtu2LjgbH1QKWpd-V6R2" name="Page-1">
     <mxGraphModel dx="983" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mQaUnpxEx9PQrwTs-Cjj-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="650" height="360" as="geometry" />
+          <mxGeometry x="40" y="260" width="650" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wL2F0BoD8RNo7xgH3Krq-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vsphere" parent="1" vertex="1">
           <mxGeometry x="65" y="420" width="44.8" height="44.8" as="geometry" />
@@ -115,6 +118,12 @@
         </mxCell>
         <mxCell id="mQaUnpxEx9PQrwTs-Cjj-29" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="596" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-31" value="&lt;div&gt;vSphere&lt;/div&gt;&lt;div&gt;vSAN&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="72" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQaUnpxEx9PQrwTs-Cjj-34" value="&lt;div&gt;Clusters&lt;/div&gt;&lt;div&gt;K8s&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="72" y="295" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
