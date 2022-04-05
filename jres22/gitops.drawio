@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T13:16:56.045Z" agent="5.0 (X11)" etag="Fingf_9fhuvIm9EEM8PK" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T13:23:42.504Z" agent="5.0 (X11)" etag="kTxPi9L6WgVXGjQT1fgX" version="17.4.0" type="github">
   <diagram id="wyctopTOUXWUcgAkxwvQ" name="Page-1">
     <mxGraphModel dx="572" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,12 +7,12 @@
         <mxCell id="j_zxgrWDTcuyVfn0F9i9-7" value="Gitlab" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;" vertex="1" parent="1">
           <mxGeometry x="320" y="30" width="264" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="j_zxgrWDTcuyVfn0F9i9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-6" target="j_zxgrWDTcuyVfn0F9i9-15">
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-6" target="j_zxgrWDTcuyVfn0F9i9-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j_zxgrWDTcuyVfn0F9i9-18" value="Commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;" vertex="1" connectable="0" parent="j_zxgrWDTcuyVfn0F9i9-12">
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-18" value="Commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" connectable="0" parent="j_zxgrWDTcuyVfn0F9i9-12">
           <mxGeometry x="-0.2994" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -25,7 +25,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j_zxgrWDTcuyVfn0F9i9-6" value="Développeurs" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;labelBackgroundColor=#FFFFFF;fontSize=10;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;" vertex="1" parent="1">
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-6" value="Développeurs" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;labelBackgroundColor=#FFFFFF;fontSize=10;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="50" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="j_zxgrWDTcuyVfn0F9i9-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png;imageBackground=none;" vertex="1" parent="1">
