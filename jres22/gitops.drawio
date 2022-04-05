@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T12:44:56.086Z" agent="5.0 (X11)" version="17.4.0" etag="CIIzekqKrz_JM5t5cUzW" type="github"><diagram id="wyctopTOUXWUcgAkxwvQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-05T13:14:42.836Z" agent="5.0 (X11)" etag="wg1CMP7rFYh52PWoRr0D" version="17.4.0" type="github">
+  <diagram id="wyctopTOUXWUcgAkxwvQ" name="Page-1">
+    <mxGraphModel dx="572" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-7" value="Gitlab" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="264" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-6" target="j_zxgrWDTcuyVfn0F9i9-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-18" value="Commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="j_zxgrWDTcuyVfn0F9i9-12">
+          <mxGeometry x="-0.2994" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=10;fontColor=#FFE6CC;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-6" target="j_zxgrWDTcuyVfn0F9i9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-32" value="Commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Fira Mono;fontColor=#000000;" vertex="1" connectable="0" parent="j_zxgrWDTcuyVfn0F9i9-31">
+          <mxGeometry x="0.2216" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-6" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/356-Document_Code-128.png" vertex="1" parent="1">
+          <mxGeometry x="233" y="75" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="70" as="sourcePoint" />
+            <mxPoint x="530" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-19" value="Construction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Fira Mono;fontColor=#000000;labelBackgroundColor=#FFE6CC;labelPosition=center;verticalLabelPosition=middle;fontSize=10;" vertex="1" connectable="0" parent="j_zxgrWDTcuyVfn0F9i9-17">
+          <mxGeometry x="-0.308" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-15" value="Dépôt application" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;shape=mxgraph.azure.git_repository;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-26" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Artefact&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontColor=#000000;labelBackgroundColor=#FFE6CC;fontSize=10;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-22" target="j_zxgrWDTcuyVfn0F9i9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-black-1/64/30-128.png;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="48.5" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-25" value="&lt;span style=&quot;background-color: rgb(255, 230, 204); font-size: 10px;&quot;&gt;Container registry&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-docker-128.png;shadow=0;sketch=0;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontColor=#000000;strokeWidth=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="420" y="140" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-30" value="Dépôt déploiement" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;shape=mxgraph.azure.git_repository;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="424" y="230" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-34" value="Cluster K8s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-36" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;shadow=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="40" height="38.4" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-37" target="j_zxgrWDTcuyVfn0F9i9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-37" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=deploy;shadow=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="146" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.008;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-38" target="j_zxgrWDTcuyVfn0F9i9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="j_zxgrWDTcuyVfn0F9i9-38" target="j_zxgrWDTcuyVfn0F9i9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-38" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=crd;shadow=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="226" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-42" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;shadow=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="653" y="170" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j_zxgrWDTcuyVfn0F9i9-43" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;shadow=0;labelBackgroundColor=#FFE6CC;fontFamily=Fira Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BMono;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="663" y="170" width="20" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
